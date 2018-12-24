@@ -1,0 +1,11 @@
+C:\Users\Developer\Desktop\Develop\faviconbrowser\Stepic\bin\Debug\Stepic.exe.config
+C:\Users\Developer\Desktop\Develop\faviconbrowser\Stepic\bin\Debug\Stepic.exe
+C:\Users\Developer\Desktop\Develop\faviconbrowser\Stepic\bin\Debug\Stepic.pdb
+C:\Users\Developer\Desktop\Develop\faviconbrowser\Stepic\obj\Debug\Stepic.exe
+C:\Users\Developer\Desktop\Develop\faviconbrowser\Stepic\obj\Debug\Stepic.pdb
+C:\Users\Developer\Desktop\Develop\faviconbrowser\Stepic\obj\Debug\Stepic.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Develop\Stepic\Stepic\bin\Debug\Stepic.exe.config
+C:\Users\Developer\Desktop\Develop\Stepic\Stepic\bin\Debug\Stepic.exe
+C:\Users\Developer\Desktop\Develop\Stepic\Stepic\bin\Debug\Stepic.pdb
+C:\Users\Developer\Desktop\Develop\Stepic\Stepic\obj\Debug\Stepic.exe
+C:\Users\Developer\Desktop\Develop\Stepic\Stepic\obj\Debug\Stepic.pdb
