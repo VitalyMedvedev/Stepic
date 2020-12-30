@@ -9,3 +9,10 @@ C:\Users\Developer\Desktop\Develop\Stepic\Stepic\bin\Debug\Stepic.exe
 C:\Users\Developer\Desktop\Develop\Stepic\Stepic\bin\Debug\Stepic.pdb
 C:\Users\Developer\Desktop\Develop\Stepic\Stepic\obj\Debug\Stepic.exe
 C:\Users\Developer\Desktop\Develop\Stepic\Stepic\obj\Debug\Stepic.pdb
+C:\Projects\Stepic\Stepic\bin\Debug\Stepic.exe.config
+C:\Projects\Stepic\Stepic\bin\Debug\Stepic.exe
+C:\Projects\Stepic\Stepic\bin\Debug\Stepic.pdb
+C:\Projects\Stepic\Stepic\obj\Debug\Stepic.csprojAssemblyReference.cache
+C:\Projects\Stepic\Stepic\obj\Debug\Stepic.csproj.CoreCompileInputs.cache
+C:\Projects\Stepic\Stepic\obj\Debug\Stepic.exe
+C:\Projects\Stepic\Stepic\obj\Debug\Stepic.pdb

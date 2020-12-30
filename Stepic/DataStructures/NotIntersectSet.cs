@@ -46,6 +46,7 @@ namespace Stepic.DataStructures
 				}
 			}
 			_rank[iId] += _rank[jId];
+			_rank[jId] = _rank[iId];
 			return _rank.Max();
 		}
 

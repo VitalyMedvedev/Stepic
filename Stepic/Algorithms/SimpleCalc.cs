@@ -1,26 +1,11 @@
-﻿using Stepic.Algorithms;
-using System;
+﻿using Stepic.Entities;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Stepic
+namespace Stepic.Algorithms
 {
-
-	internal class Program
-	{
-
-		private static void Main()
-		{
-			var args = Console.ReadLine();
-			var res = SequenceNumbers(Convert.ToInt32(args));
-			var count = res.Split(' ').Length - 1;
-			Console.WriteLine(count);
-			Console.WriteLine(res);
-		}
-
-
-        public static string SequenceNumbers(int number)
+    public class SimpleCalc
+    {
+        public string SequenceNumbers(int number)
         {
             var array = new Step[number + 1];
             array[1] = new Step { StepNumber = 0, PreviousStep = 0 };
@@ -32,17 +17,17 @@ namespace Stepic
             }
             var index = number;
             var stack = new Stack<int>();
-
-            while (index > 0)
+            
+            while(index > 0)
             {
                 stack.Push(index);
                 index = array[index].PreviousStep;
-
+                 
             }
             var res = "";
-            while (stack.Count > 0)
+            while(stack.Count > 0)
             {
-                if (res != "")
+                if(res != "")
                 {
                     res += " ";
                 }
@@ -52,9 +37,9 @@ namespace Stepic
             return res;
         }
 
-        private static void Calculate(Step[] array, int i, int calcValue)
+        private void Calculate(Step[] array, int i, int calcValue)
         {
-            if (calcValue > array.Length - 1)
+            if(calcValue > array.Length - 1)
             {
                 return;
             }
@@ -63,11 +48,5 @@ namespace Stepic
                 array[calcValue] = new Step { StepNumber = array[i].StepNumber + 1, PreviousStep = i };
             }
         }
-
-        public struct Step
-        {
-            public int StepNumber { get; set; }
-            public int PreviousStep { get; set; }
-        }
-	}
+    }
 }

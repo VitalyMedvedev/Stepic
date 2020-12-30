@@ -50,12 +50,12 @@
     <Compile Include="Algorithms\GreedyAlgorithms.cs" />
     <Compile Include="Algorithms\Huffman.cs" />
     <Compile Include="Algorithms\QuickSort.cs" />
+    <Compile Include="Algorithms\SimpleCalc.cs" />
     <Compile Include="Algorithms\Sorting.cs" />
     <Compile Include="DataStructures\HashTable.cs" />
     <Compile Include="DataStructures\Heap.cs" />
     <Compile Include="DataStructures\NotIntersectSet.cs" />
     <Compile Include="DataStructures\Stack.cs" />
-    <Compile Include="Entities\Branch.cs" />
     <Compile Include="Entities\CodeHuffman.cs" />
     <Compile Include="Entities\Heap\Node.cs" />
     <Compile Include="Entities\InternalNode.cs" />
@@ -64,6 +64,7 @@
     <Compile Include="Entities\NodeTree.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Entities\Segment.cs" />
+    <Compile Include="Entities\Step.cs" />
     <Compile Include="Entities\Union.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

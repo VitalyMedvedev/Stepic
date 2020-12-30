@@ -16,3 +16,15 @@ C:\Users\Developer\Desktop\Develop\Stepic\StepicTest\bin\Debug\nunit.framework.x
 C:\Users\Developer\Desktop\Develop\Stepic\StepicTest\obj\Debug\StepicTest.csprojResolveAssemblyReference.cache
 C:\Users\Developer\Desktop\Develop\Stepic\StepicTest\obj\Debug\StepicTest.dll
 C:\Users\Developer\Desktop\Develop\Stepic\StepicTest\obj\Debug\StepicTest.pdb
+C:\Projects\Stepic\StepicTest\bin\Debug\StepicTest.dll
+C:\Projects\Stepic\StepicTest\bin\Debug\StepicTest.pdb
+C:\Projects\Stepic\StepicTest\bin\Debug\nunit.framework.dll
+C:\Projects\Stepic\StepicTest\bin\Debug\Stepic.exe
+C:\Projects\Stepic\StepicTest\bin\Debug\Stepic.pdb
+C:\Projects\Stepic\StepicTest\bin\Debug\Stepic.exe.config
+C:\Projects\Stepic\StepicTest\bin\Debug\nunit.framework.xml
+C:\Projects\Stepic\StepicTest\obj\Debug\StepicTest.csprojAssemblyReference.cache
+C:\Projects\Stepic\StepicTest\obj\Debug\StepicTest.csproj.CoreCompileInputs.cache
+C:\Projects\Stepic\StepicTest\obj\Debug\StepicTest.csproj.CopyComplete
+C:\Projects\Stepic\StepicTest\obj\Debug\StepicTest.dll
+C:\Projects\Stepic\StepicTest\obj\Debug\StepicTest.pdb
